@@ -53,4 +53,10 @@ Para executar o projeto:
    python seu_arquivo.py
    ```
 
+---
+
+## 📄 Licença
+
+Este projeto é distribuído sob a licença MIT.
+Sinta-se livre para usar, modificar e contribuir.
 
