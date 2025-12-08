@@ -50,7 +50,7 @@ Para executar o projeto:
 3. Garanta que os arquivos leao.mp3, galo.mp3 e elefante.mp3 estejam na mesma pasta do código.
 4. Execute:
    ```bash
-   python seu_arquivo.py
+   python atv1.py
    ```
 
 ---
